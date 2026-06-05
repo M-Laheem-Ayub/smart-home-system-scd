@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module SmartHome_SCD {
-}
